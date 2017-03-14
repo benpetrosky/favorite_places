@@ -1,0 +1,22 @@
+body{
+  background-color: grey;
+  text-align: center;
+}
+
+h1{
+  color: blue;
+  font-family: cursive;
+}
+
+img{
+  border: solid 5px black;
+}
+
+ul{
+  text-align: left;
+}
+
+li{
+  font-size: 18px;
+  font-family: monospace;
+}
